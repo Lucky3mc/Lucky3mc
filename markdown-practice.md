@@ -37,9 +37,8 @@ In this course, I am practicing how to use **bold text** to emphasize key points
 
 ## Task List
 - [x] Create a GitHub repository
-- [x] Complete Markdown Exercise 1
-- [ ] Master Python syntax
-- [ ] Build a full-stack application
+- [x] Complete Markdown Exercise
+- [ ] Build an automation ai
 
 ---
 
