@@ -42,36 +42,33 @@ In this course, I am practicing how to use **bold text** to emphasize key points
 
 ---
 
-## Code Block
-```python
-def hello_world():
-    print("Hello, world!")
-
-hello_world()
----
-
 ## Exercise 8 — Blockquote
 
 > "The path to the Crown is paved with the corpses of your former selves; only in the absolute silence of the tomb can the first breath of the Spirit be heard."
 
 ---
 
-## Bonus — Put it all together
+## Bonus points
 
-### Hello! I'm Lucky3mc
+### Hello! I'm Lucky
 
 I am currently **exploring the intersection of data and intelligence**. My goal is to build models that don't just process data, but truly "understand" it using `Python`.
 
-
-
 #### My AI Focus:
+
 * **Neural Networks**
 * **NLP**
 * **Machine Learning**
 
-
-
-[Image of a neural network diagram showing input, hidden, and output layers]
-
-
 > "Coding is the language of the future, and I'm learning to speak it fluently."
+
+---
+```python
+print("Hello, world!")
+```
+ 
+
+### What I'm Learning:
+1. **Data Structures** - Arrays, Trees, Graphs
+2. **Algorithms** - Sorting, Search, Optimization
+3. **AI Concepts** - Neural Networks, Deep Learning
