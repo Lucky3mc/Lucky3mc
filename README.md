@@ -1,14 +1,14 @@
 # Hi, I'm Lucky Maina 👋
 
-### 🛡️ Builder of [Debuggix](https://github.com/Lucky3mc/ai-code-debugger) — AI-Powered Security Scanner
+### 🛡️ Builder of Debuggix — AI-Powered Security Scanner
 
-I'm a **full-stack developer & AI engineer** who builds tools that make developers more productive and code more secure. Currently scaling [Debuggix](https://debuggix.space) — a platform that runs 9 security scanners in parallel and uses AI to automatically fix vulnerabilities.
+I'm a **full-stack developer & AI engineer** building tools that make developers more productive and code more secure. Currently scaling [Debuggix](https://debuggix.space) — a platform that runs 9 security scanners in parallel and uses AI to automatically fix vulnerabilities.
 
 ---
 
 ## 🚀 What I'm Building
 
-### [Debuggix — Find Vulnerabilities. Fix with AI. Ship Secure Code.](https://github.com/Lucky3mc/ai-code-debugger)
+### [Debuggix — Find Vulnerabilities. Fix with AI. Ship Secure Code.](https://debuggix.space)
 
 A production-grade security platform that orchestrates 9 specialized engines (Semgrep, Gitleaks, Trivy, Bandit, ESLint, Hadolint, Checkov, OSV-Scanner, TruffleHog) and generates working code fixes using GPT-4 and Claude.
 
@@ -40,10 +40,9 @@ A production-grade security platform that orchestrates 9 specialized engines (Se
 
 ## 📬 Let's Connect
 
-- 🌐 **Portfolio:** [debuggix.space](https://debuggix.space)
+- 🌐 **Debuggix:** [debuggix.space](https://debuggix.space)
 - 💼 **LinkedIn:** [linkedin.com/in/lucky-maina](https://www.linkedin.com/in/lucky-maina-Crimson)
 - 📧 **Email:** [luckykararu@gmail.com](mailto:luckykararu@gmail.com)
-- 🐦 **Twitter/X:** Let me know your handle and I'll add it
 
 ---
 
